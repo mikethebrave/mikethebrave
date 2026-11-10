@@ -8,4 +8,5 @@
 <p align="center"> 
   <img width="156" height="155" alt="Image" src="https://github.com/user-attachments/assets/38b50a68-ded1-4e84-ab7b-87bb215c326a" /> 
   <p align="center"> 
-  ugliest thing ever.
+<a href="https://github.com/boysocampy"> ugliest thing EVER</a>
+ 
