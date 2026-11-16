@@ -1,12 +1,8 @@
 <p align="center"> 
-<img src="https://komarev.com/ghpvc/?username=voxtekz&color=231c36&style=plastic&label=♡"/>
+<img src="https://komarev.com/ghpvc/?username=voxtekz&color=6069a9&style=plastic&label=♡"/>
 <p align="center"> 
-<img width="255" height="192" alt="Image" src="https://github.com/user-attachments/assets/4042fbba-667b-480f-9f57-36a888b70455" />
+<img width="589" height="423" alt="ASDADSASDASDASDASD" src="https://github.com/user-attachments/assets/59591248-a212-42e1-8721-8ade34281297" />
 <p align="center"> 
-<a href="https://fluffle.cc/mikethebrave"> rentry ♡</a> 　　<img width="20" height="20" alt="Image" src="https://github.com/user-attachments/assets/4902a914-c6e5-426a-bdfb-be3e9ed2d5bb" /> 　　<a href="https://finnwolfhard.atabook.org/"> atabook</a>
+<a href="https://fluffle.cc/mikethebrave"> rentry ♡</a> 　　<img width="20" height="20" alt="32dig7" src="https://github.com/user-attachments/assets/9904edc2-a596-48dc-8e34-7ab1e5c9e5d1" /> 　　<a href="https://finnwolfhard.atabook.org/"> atabook</a>
 
-<p align="center"> 
-  <img width="156" height="155" alt="Image" src="https://github.com/user-attachments/assets/38b50a68-ded1-4e84-ab7b-87bb215c326a" /> 
-  <p align="center"> 
-<a href="https://github.com/boysocampy"> ugliest thing EVER</a>
  
