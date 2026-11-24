@@ -7,5 +7,5 @@
 <p align="center"> 
 <img width="538" height="31" alt="image" src="https://github.com/user-attachments/assets/254d4f6f-23d2-4de6-8198-1af86bb04240" />
  <p align="center"> 
-<a href="https://github/pt-everypony"> pt-everypony</a>
+<a href="https://github.com/pt-everypony"> pt-everypony</a>
  
